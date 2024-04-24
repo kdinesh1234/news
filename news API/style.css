@@ -1,0 +1,42 @@
+
+.navbar {
+    background-color: #343a40;
+    padding:  10px 20px;
+}
+
+.navbar-brand {
+    font-size: 1.5rem;
+}
+
+.nav-link {
+    color: #ffc107;
+}
+
+.nav-link:hover {
+    color: #ff8c00;
+}
+
+
+.card img {
+    height: 200px; 
+    object-fit: cover; 
+    width: 100%; 
+}
+
+
+.footer {
+    background-color: #343a40;
+    color: #ffc107;
+    padding: 10px;
+    text-align: center;
+}
+
+
+.mt-5 {
+    margin-top: 3rem !important;
+}
+
+
+.container-fluid {
+    padding: 0 !important;
+}
